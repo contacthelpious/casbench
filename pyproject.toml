@@ -5,6 +5,6 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "casbench"
 version = "0.1.0"
-description = "casbench"
+description = "A Python scaffold for the casbench project."
 readme = "README.md"
 requires-python = ">=3.9"
